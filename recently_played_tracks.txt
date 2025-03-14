@@ -6039,3 +6039,18 @@ GitHub_Runner_Date: 2025-03-13 01:38:23.712166 Track Name: "Jamtown" Artist Name
 GitHub_Runner_Date: 2025-03-13 01:38:23.712185 Track Name: "D N A" Artist Name: "Mical Teja" Web Link: https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu 
 GitHub_Runner_Date: 2025-03-13 01:38:23.712204 Track Name: "Good Spirits" Artist Name: "Full Blown" Web Link: https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC 
 GitHub_Runner_Date: 2025-03-13 01:38:23.712224 Track Name: "Feelings - Live in-studio, New York, 2023" Artist Name: "Dre Scot" Web Link: https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549442 Track Name: "CAGED BIRDS (NPR MUSIC'S TINY DESK CONCERT)" Artist Name: "Tobe Nwigwe" Web Link: https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549507 Track Name: "Absolute Reprise" Artist Name: "midnight" Web Link: https://open.spotify.com/artist/7rlI9s1CrQD5Gj4vRW1vvw 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549534 Track Name: "Kiss The Sky" Artist Name: "Avery Wilson" Web Link: https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549557 Track Name: "Yesterday Was Heaven" Artist Name: "Stefan Mahendra" Web Link: https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549578 Track Name: "Meant2B" Artist Name: "Al Hostile" Web Link: https://open.spotify.com/artist/1eRxftrJjUxQTut4Svctfm 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549597 Track Name: "Always There" Artist Name: "Aint Afraid" Web Link: https://open.spotify.com/artist/1E6I6xhlNmVIgnDGkikmj5 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549617 Track Name: "If The Love Goes - A COLORS SHOW" Artist Name: "Jamilah Barry" Web Link: https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549637 Track Name: "On God!" Artist Name: "Tiana Major9" Web Link: https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549656 Track Name: "Caught In A Lie" Artist Name: "The Hics" Web Link: https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549676 Track Name: "Perfect Company" Artist Name: "James Vickery" Web Link: https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549695 Track Name: "SLOOOWLY" Artist Name: "Marie Noreger" Web Link: https://open.spotify.com/artist/5xyRNaMYYZySaNqjiFyR47 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549715 Track Name: "Glow Queen" Artist Name: "Valntna" Web Link: https://open.spotify.com/artist/2MRXJHWrV72Bd35kawjirn 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549767 Track Name: "Hold My Hand" Artist Name: "Kenneth Whalum" Web Link: https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549794 Track Name: "If Only (MajorStage Live)" Artist Name: "D'GORD" Web Link: https://open.spotify.com/artist/0F41K3Rqw4LJII3BGd8Pet 
+GitHub_Runner_Date: 2025-03-14 01:36:27.549814 Track Name: "Lucky" Artist Name: "Tish Hyman" Web Link: https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K 
