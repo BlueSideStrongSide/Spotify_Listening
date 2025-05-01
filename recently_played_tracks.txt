@@ -6710,3 +6710,19 @@ GitHub_Runner_Date: 2025-04-30 01:44:00.834430 Track Name: "HER" Artist Name: "I
 GitHub_Runner_Date: 2025-04-30 01:44:00.834449 Track Name: "He Won't" Artist Name: "Owen Saward" Web Link: https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd 
 GitHub_Runner_Date: 2025-04-30 01:44:00.834469 Track Name: "All Yours (with Amaria & Dylan Sinclair)" Artist Name: "Joe Kay" Web Link: https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk 
 GitHub_Runner_Date: 2025-04-30 01:44:00.834488 Track Name: "Tell Me - Chill Mix" Artist Name: "Sonny Fodera" Web Link: https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP 
+GitHub_Runner_Date: 2025-05-01 01:52:50.651735 Track Name: "Tell Me - Chill Mix" Artist Name: "Sonny Fodera" Web Link: https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP 
+GitHub_Runner_Date: 2025-05-01 01:52:50.651801 Track Name: "Addicted to Love" Artist Name: "KAYWHT" Web Link: https://open.spotify.com/artist/6yipJErUDK9GLL37qLDEje 
+GitHub_Runner_Date: 2025-05-01 01:52:50.651828 Track Name: "HER" Artist Name: "Isaac Carree" Web Link: https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH 
+GitHub_Runner_Date: 2025-05-01 01:52:50.651851 Track Name: "Rather Be (with Kiana Ledé)" Artist Name: "D-Nice" Web Link: https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH 
+GitHub_Runner_Date: 2025-05-01 01:52:50.651876 Track Name: "No More Lonely Nights" Artist Name: "Tatiana Manaois" Web Link: https://open.spotify.com/artist/7z1VrrLktQYoS9C0cFbfnI 
+GitHub_Runner_Date: 2025-05-01 01:52:50.651898 Track Name: "Thank God I Found You (feat. Joe & Nas) - Make It Last Remix Edit" Artist Name: "Mariah Carey" Web Link: https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ 
+GitHub_Runner_Date: 2025-05-01 01:52:50.651920 Track Name: "Hard 2 Find" Artist Name: "Papa Jay" Web Link: https://open.spotify.com/artist/18Q9sSUKyTM1CxVBn1s2Wg 
+GitHub_Runner_Date: 2025-05-01 01:52:50.651939 Track Name: "What's The Point" Artist Name: "Toni Romiti" Web Link: https://open.spotify.com/artist/0taUqKeI9JbGZECxu5bVV0 
+GitHub_Runner_Date: 2025-05-01 01:52:50.651959 Track Name: "All Yours (with Amaria & Dylan Sinclair)" Artist Name: "Joe Kay" Web Link: https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk 
+GitHub_Runner_Date: 2025-05-01 01:52:50.651978 Track Name: "Tell Me - Chill Mix" Artist Name: "Sonny Fodera" Web Link: https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP 
+GitHub_Runner_Date: 2025-05-01 01:52:50.651997 Track Name: "Addicted to Love" Artist Name: "KAYWHT" Web Link: https://open.spotify.com/artist/6yipJErUDK9GLL37qLDEje 
+GitHub_Runner_Date: 2025-05-01 01:52:50.652016 Track Name: "HER" Artist Name: "Isaac Carree" Web Link: https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH 
+GitHub_Runner_Date: 2025-05-01 01:52:50.652034 Track Name: "Get You (feat. Kali Uchis)" Artist Name: "Daniel Caesar" Web Link: https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA 
+GitHub_Runner_Date: 2025-05-01 01:52:50.652053 Track Name: "Dive" Artist Name: "RAAHiiM" Web Link: https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9 
+GitHub_Runner_Date: 2025-05-01 01:52:50.652071 Track Name: "Grateful" Artist Name: "Mahalia" Web Link: https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI 
+GitHub_Runner_Date: 2025-05-01 01:52:50.652090 Track Name: "Making Love (Into the Night)" Artist Name: "USHER" Web Link: https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj 
