@@ -6737,3 +6737,19 @@ GitHub_Runner_Date: 2025-05-02 01:44:41.769395 Track Name: "Tell Me - Chill Mix"
 GitHub_Runner_Date: 2025-05-02 01:44:41.769424 Track Name: "Addicted to Love" Artist Name: "KAYWHT" Web Link: https://open.spotify.com/artist/6yipJErUDK9GLL37qLDEje 
 GitHub_Runner_Date: 2025-05-02 01:44:41.769445 Track Name: "HER" Artist Name: "Isaac Carree" Web Link: https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH 
 GitHub_Runner_Date: 2025-05-02 01:44:41.769465 Track Name: "Questions" Artist Name: "Tamia" Web Link: https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390481 Track Name: "Tell Me - Chill Mix" Artist Name: "Sonny Fodera" Web Link: https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390535 Track Name: "Addicted to Love" Artist Name: "KAYWHT" Web Link: https://open.spotify.com/artist/6yipJErUDK9GLL37qLDEje 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390561 Track Name: "HER" Artist Name: "Isaac Carree" Web Link: https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390584 Track Name: "What's The Point" Artist Name: "Toni Romiti" Web Link: https://open.spotify.com/artist/0taUqKeI9JbGZECxu5bVV0 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390604 Track Name: "Tell Me - Chill Mix" Artist Name: "Sonny Fodera" Web Link: https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390624 Track Name: "Addicted to Love" Artist Name: "KAYWHT" Web Link: https://open.spotify.com/artist/6yipJErUDK9GLL37qLDEje 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390644 Track Name: "HER" Artist Name: "Isaac Carree" Web Link: https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390663 Track Name: "Rather Be (with Kiana Ledé)" Artist Name: "D-Nice" Web Link: https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390686 Track Name: "No More Lonely Nights" Artist Name: "Tatiana Manaois" Web Link: https://open.spotify.com/artist/7z1VrrLktQYoS9C0cFbfnI 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390706 Track Name: "Thank God I Found You (feat. Joe & Nas) - Make It Last Remix Edit" Artist Name: "Mariah Carey" Web Link: https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390726 Track Name: "Hard 2 Find" Artist Name: "Papa Jay" Web Link: https://open.spotify.com/artist/18Q9sSUKyTM1CxVBn1s2Wg 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390746 Track Name: "What's The Point" Artist Name: "Toni Romiti" Web Link: https://open.spotify.com/artist/0taUqKeI9JbGZECxu5bVV0 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390765 Track Name: "He Won't" Artist Name: "Owen Saward" Web Link: https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390784 Track Name: "All Yours (with Amaria & Dylan Sinclair)" Artist Name: "Joe Kay" Web Link: https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390803 Track Name: "Tell Me - Chill Mix" Artist Name: "Sonny Fodera" Web Link: https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP 
+GitHub_Runner_Date: 2025-05-03 01:42:21.390822 Track Name: "Addicted to Love" Artist Name: "KAYWHT" Web Link: https://open.spotify.com/artist/6yipJErUDK9GLL37qLDEje 
