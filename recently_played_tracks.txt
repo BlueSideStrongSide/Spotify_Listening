@@ -6917,3 +6917,18 @@ GitHub_Runner_Date: 2025-05-14 01:46:25.383186 Track Name: "Holding On" Artist N
 GitHub_Runner_Date: 2025-05-14 01:46:25.383222 Track Name: "Coffee in the Morning" Artist Name: "Jess Best" Web Link: https://open.spotify.com/artist/4pwfmguHmiuEmH1Xsw2NME 
 GitHub_Runner_Date: 2025-05-14 01:46:25.383260 Track Name: "Dangerous Thing" Artist Name: "Jay Warren" Web Link: https://open.spotify.com/artist/692sqZdmqkQjdCk87QECpd 
 GitHub_Runner_Date: 2025-05-14 01:46:25.383320 Track Name: "Water Me" Artist Name: "Parisalexa" Web Link: https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344499 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344570 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344597 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344619 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344640 Track Name: "Decibel" Artist Name: "The Analog Affair" Web Link: https://open.spotify.com/artist/4RWXWiYvFNeoSYdxRREqXM 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344660 Track Name: "Father Figure" Artist Name: "Harrison Brome" Web Link: https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344680 Track Name: "Repeat" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344699 Track Name: "Lost Light Shining" Artist Name: "Luke Mitrani" Web Link: https://open.spotify.com/artist/6OzAqsb9KgjKjUyoTjZ6UV 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344718 Track Name: "Swim Good" Artist Name: "Life Is Better Blonde" Web Link: https://open.spotify.com/artist/59ZXbf3WoWxlbCewmyIs2a 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344737 Track Name: "Trance Dance" Artist Name: "ODIE" Web Link: https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344756 Track Name: "Monsters" Artist Name: "The Analog Affair" Web Link: https://open.spotify.com/artist/4RWXWiYvFNeoSYdxRREqXM 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344785 Track Name: "Broken Roots" Artist Name: "Michl" Web Link: https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344804 Track Name: "Get Low" Artist Name: "James Vincent McMorrow" Web Link: https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344823 Track Name: "Speak Up" Artist Name: "JPL" Web Link: https://open.spotify.com/artist/7u5SiDcWwtLRKN1RBcwW0G 
+GitHub_Runner_Date: 2025-05-15 01:44:28.344843 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
