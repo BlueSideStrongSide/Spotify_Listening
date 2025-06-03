@@ -7179,3 +7179,17 @@ GitHub_Runner_Date: 2025-06-02 01:53:21.325788 Track Name: "Amen" Artist Name: "
 GitHub_Runner_Date: 2025-06-02 01:53:21.325806 Track Name: "Small Talk" Artist Name: "MALIA" Web Link: https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6 
 GitHub_Runner_Date: 2025-06-02 01:53:21.325826 Track Name: "Anything" Artist Name: "Lee England Jr" Web Link: https://open.spotify.com/artist/7FabEcDtzenndrHSHMqyQL 
 GitHub_Runner_Date: 2025-06-02 01:53:21.325844 Track Name: "Best Friend" Artist Name: "Keyshia Cole" Web Link: https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422059 Track Name: "Seconds Please" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422119 Track Name: "Left Alone" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422145 Track Name: "I Can't Walk Around Naked" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422166 Track Name: "Rose" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422186 Track Name: "Faust Road" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422205 Track Name: "Hello To Me" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422250 Track Name: "Never any no good" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422276 Track Name: "25.22" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422296 Track Name: "Road Warrior" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422315 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422333 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422352 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422370 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-03 01:49:54.422389 Track Name: "Burn One" Artist Name: "Lorine Chia" Web Link: https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9 
