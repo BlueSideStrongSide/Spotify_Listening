@@ -7268,3 +7268,17 @@ GitHub_Runner_Date: 2025-06-08 01:57:50.462277 Track Name: "Seconds Please" Arti
 GitHub_Runner_Date: 2025-06-08 01:57:50.462296 Track Name: "Left Alone" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-06-08 01:57:50.462314 Track Name: "I Can't Walk Around Naked" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-06-08 01:57:50.462343 Track Name: "Rose" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430472 Track Name: "25.22" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430538 Track Name: "Road Warrior" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430564 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430594 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430615 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430635 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430654 Track Name: "Chief" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430673 Track Name: "Dog" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430697 Track Name: "Graceland" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430718 Track Name: "Repeat" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430737 Track Name: "Seconds Please" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430756 Track Name: "Left Alone" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430775 Track Name: "I Can't Walk Around Naked" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-09 01:55:26.430794 Track Name: "Rose" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
