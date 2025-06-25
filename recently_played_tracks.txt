@@ -7513,3 +7513,19 @@ GitHub_Runner_Date: 2025-06-24 01:52:06.638383 Track Name: "Seconds Please" Arti
 GitHub_Runner_Date: 2025-06-24 01:52:06.638402 Track Name: "Left Alone" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-06-24 01:52:06.638428 Track Name: "I Can't Walk Around Naked" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-06-24 01:52:06.638448 Track Name: "Rose" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-25 01:52:02.320970 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321043 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321090 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321117 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321138 Track Name: "The Dance - Live In Toronto 2024" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321158 Track Name: "Angela" Artist Name: "dvsn" Web Link: https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321178 Track Name: "The Line" Artist Name: "dvsn" Web Link: https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321196 Track Name: "Too Deep" Artist Name: "dvsn" Web Link: https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321215 Track Name: "Better" Artist Name: "Kyle Dion" Web Link: https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321233 Track Name: "Poison" Artist Name: "Brent Faiyaz" Web Link: https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321251 Track Name: "This Lil' Game We Play" Artist Name: "Subway" Web Link: https://open.spotify.com/artist/3Fvbvyqm3GBJKSqf1UwHKQ 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321270 Track Name: "Flawless" Artist Name: "Avery Wilson" Web Link: https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321288 Track Name: "Be Honest" Artist Name: "R.LUM.R" Web Link: https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321306 Track Name: "Beverly" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321324 Track Name: "Blush" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-06-25 01:52:02.321342 Track Name: "Go My Way" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
