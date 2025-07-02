@@ -7623,3 +7623,18 @@ GitHub_Runner_Date: 2025-07-01 02:02:31.850012 Track Name: "Dog" Artist Name: "A
 GitHub_Runner_Date: 2025-07-01 02:02:31.850031 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-07-01 02:02:31.850051 Track Name: "The Dance - Live In Toronto 2024" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-07-01 02:02:31.850069 Track Name: "Happy Birthday" Artist Name: "Tempo" Web Link: https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246637 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246695 Track Name: "The Dance - Live In Toronto 2024" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246720 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246757 Track Name: "Poison" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246786 Track Name: "Seconds Please" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246807 Track Name: "Might get strange" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246826 Track Name: "Much Too Much" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246844 Track Name: "Repeat" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246863 Track Name: "Go My Way" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246892 Track Name: "Faust Road" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246911 Track Name: "Hello To Me" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246930 Track Name: "I Can't Walk Around Naked" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246948 Track Name: "Books" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246966 Track Name: "25.22" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-02 01:51:28.246984 Track Name: "Blush" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
