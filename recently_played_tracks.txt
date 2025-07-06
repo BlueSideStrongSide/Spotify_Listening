@@ -7691,3 +7691,22 @@ GitHub_Runner_Date: 2025-07-05 01:47:15.176356 Track Name: "Head & Heart" Artist
 GitHub_Runner_Date: 2025-07-05 01:47:15.176374 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-07-05 01:47:15.176392 Track Name: "The Dance - Live In Toronto 2024" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-07-05 01:47:15.176411 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351296 Track Name: "Over And Over Again" Artist Name: "Tami Chynn" Web Link: https://open.spotify.com/artist/4vYDXimNRE3XaXFrzodxkQ 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351355 Track Name: "The Low" Artist Name: "Mutomba" Web Link: https://open.spotify.com/artist/3bvZJmv0WvfdVLt5UyoAF7 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351380 Track Name: "Make Me Higher" Artist Name: "mAsis" Web Link: https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351402 Track Name: "In the Name of Love" Artist Name: "Victoria Noelle" Web Link: https://open.spotify.com/artist/02pHESvppII3jQQz7xNoR2 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351423 Track Name: "Walking in my purpose" Artist Name: "Room2Breathe" Web Link: https://open.spotify.com/artist/4VTMsDbOCPE9qk1996daN6 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351442 Track Name: "Into the Unknown" Artist Name: "Sol Rising" Web Link: https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351462 Track Name: "Too Young To Go" Artist Name: "Flier" Web Link: https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351481 Track Name: "Walking in my purpose" Artist Name: "Room2Breathe" Web Link: https://open.spotify.com/artist/4VTMsDbOCPE9qk1996daN6 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351499 Track Name: "GIRL. feat. LAVVA" Artist Name: "Shylah Ray Sunshine" Web Link: https://open.spotify.com/artist/6tsHNUCfuI5vPzhyhaWjBZ 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351518 Track Name: "These Days" Artist Name: "Roll Mega" Web Link: https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351536 Track Name: "If I Die" Artist Name: "Maggie Koerner" Web Link: https://open.spotify.com/artist/0I21YuJNE9DbkOcacgbQoe 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351555 Track Name: "Letting Go" Artist Name: "Oliver Tank" Web Link: https://open.spotify.com/artist/0YnqxF8FNAMagpmi2T1UjJ 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351574 Track Name: "Never Regret" Artist Name: "Black Soil" Web Link: https://open.spotify.com/artist/11qW8E6gUDxAuTvn9VJQnD 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351602 Track Name: "Crush" Artist Name: "Sasha & the Bear" Web Link: https://open.spotify.com/artist/4EiQ7nB2HocY11jkvyriLY 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351622 Track Name: "Amalofi" Artist Name: "Afro Lofi Guy" Web Link: https://open.spotify.com/artist/4mmQa4fTJmJw06Jjw9IIVS 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351642 Track Name: "Head & Heart" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351660 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351679 Track Name: "The Dance - Live In Toronto 2024" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-06 01:59:56.351698 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
