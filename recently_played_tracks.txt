@@ -7820,3 +7820,22 @@ GitHub_Runner_Date: 2025-07-13 02:05:13.860619 Track Name: "Lucy The Tease" Arti
 GitHub_Runner_Date: 2025-07-13 02:05:13.860638 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-07-13 02:05:13.860657 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-07-13 02:05:13.860675 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395121 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395209 Track Name: "The Dance - Live In Toronto 2024" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395250 Track Name: "Before I Let Go" Artist Name: "Maze" Web Link: https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395286 Track Name: "Southern Soul Girl" Artist Name: "Volton Wright" Web Link: https://open.spotify.com/artist/13AD51O8vxYEyuDUb04f7e 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395333 Track Name: "Me and Mrs. Jones" Artist Name: "Billy Paul" Web Link: https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395370 Track Name: "Lovely Day" Artist Name: "Bill Withers" Web Link: https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395404 Track Name: "I Heard It Through The Grapevine" Artist Name: "Marvin Gaye" Web Link: https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395435 Track Name: "Dazz - Single Version" Artist Name: "Brick" Web Link: https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395469 Track Name: "Best of My Love" Artist Name: "The Emotions" Web Link: https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395505 Track Name: "Ascension (Don't Ever Wonder) - Remastered 2021" Artist Name: "Maxwell" Web Link: https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395549 Track Name: "Got My Whiskey" Artist Name: "Mel Waiters" Web Link: https://open.spotify.com/artist/3shtTHtmebW7LPnzO5KAJc 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395589 Track Name: "Got To Give It Up - Pt. 1" Artist Name: "Marvin Gaye" Web Link: https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395636 Track Name: "Groove Me" Artist Name: "King Floyd" Web Link: https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395677 Track Name: "Slip Away" Artist Name: "Clarence Carter" Web Link: https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395714 Track Name: "Juicy Fruit - Single Version" Artist Name: "Mtume" Web Link: https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395753 Track Name: "September" Artist Name: "Earth, Wind & Fire" Web Link: https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395797 Track Name: "I'll Take You There" Artist Name: "The Staple Singers" Web Link: https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395870 Track Name: "Lyla Emily" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-14 02:00:20.395921 Track Name: "Double Cigarette" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
