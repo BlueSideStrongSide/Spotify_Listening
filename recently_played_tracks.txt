@@ -7901,3 +7901,19 @@ GitHub_Runner_Date: 2025-07-18 01:59:21.074190 Track Name: "Sun + Moon" Artist N
 GitHub_Runner_Date: 2025-07-18 01:59:21.074209 Track Name: "say my name again" Artist Name: "ïnnü" Web Link: https://open.spotify.com/artist/0EOKPBngScriBSl8h4balK 
 GitHub_Runner_Date: 2025-07-18 01:59:21.074230 Track Name: "Weightless" Artist Name: "J. Brown" Web Link: https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb 
 GitHub_Runner_Date: 2025-07-18 01:59:21.074250 Track Name: "Feelings - Live in-studio, New York, 2023" Artist Name: "Dre Scot" Web Link: https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870545 Track Name: "Love and Happiness" Artist Name: "Al Green" Web Link: https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870605 Track Name: "Tired of Being Alone" Artist Name: "Al Green" Web Link: https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870631 Track Name: "Let's Stay Together" Artist Name: "Al Green" Web Link: https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870654 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870675 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870694 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870714 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870733 Track Name: "Waste Of Me - Live In Toronto 2024" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870753 Track Name: "Second Chance" Artist Name: "Jody Wisternoff" Web Link: https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870772 Track Name: "Ordinary" Artist Name: "Alex Warren" Web Link: https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870791 Track Name: "Promise To Love" Artist Name: "LeVelle" Web Link: https://open.spotify.com/artist/4n3eYLfPqAvWcorjUW3vyP 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870810 Track Name: "Callin' for You" Artist Name: "Vicki Vox" Web Link: https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870829 Track Name: "Sun + Moon" Artist Name: "Grimm Lynn" Web Link: https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870848 Track Name: "say my name again" Artist Name: "ïnnü" Web Link: https://open.spotify.com/artist/0EOKPBngScriBSl8h4balK 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870870 Track Name: "Weightless" Artist Name: "J. Brown" Web Link: https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb 
+GitHub_Runner_Date: 2025-07-19 01:53:33.870889 Track Name: "Feelings - Live in-studio, New York, 2023" Artist Name: "Dre Scot" Web Link: https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1 
