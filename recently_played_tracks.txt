@@ -7917,3 +7917,20 @@ GitHub_Runner_Date: 2025-07-19 01:53:33.870829 Track Name: "Sun + Moon" Artist N
 GitHub_Runner_Date: 2025-07-19 01:53:33.870848 Track Name: "say my name again" Artist Name: "ïnnü" Web Link: https://open.spotify.com/artist/0EOKPBngScriBSl8h4balK 
 GitHub_Runner_Date: 2025-07-19 01:53:33.870870 Track Name: "Weightless" Artist Name: "J. Brown" Web Link: https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb 
 GitHub_Runner_Date: 2025-07-19 01:53:33.870889 Track Name: "Feelings - Live in-studio, New York, 2023" Artist Name: "Dre Scot" Web Link: https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963205 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963290 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963329 Track Name: "Waste Of Me - Live In Toronto 2024" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963362 Track Name: "Go My Way" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963384 Track Name: "Go My Way" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963404 Track Name: "Head & Heart" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963423 Track Name: "Graceland" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963441 Track Name: "Repeat" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963460 Track Name: "Pick Up the Pieces" Artist Name: "Average White Band" Web Link: https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963479 Track Name: "Waste Of Me - Live In Toronto 2024" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963497 Track Name: "The Dance - Live In Toronto 2024" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963515 Track Name: "Love and Happiness" Artist Name: "Al Green" Web Link: https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963533 Track Name: "Tired of Being Alone" Artist Name: "Al Green" Web Link: https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963551 Track Name: "Let's Stay Together" Artist Name: "Al Green" Web Link: https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963570 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963588 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-20 02:06:34.963607 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
