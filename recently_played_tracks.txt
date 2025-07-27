@@ -8023,3 +8023,21 @@ GitHub_Runner_Date: 2025-07-26 01:54:38.922536 Track Name: "25.22" Artist Name: 
 GitHub_Runner_Date: 2025-07-26 01:54:38.922555 Track Name: "Hello To Me" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-07-26 01:54:38.922574 Track Name: "Never any no good" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-07-26 01:54:38.922594 Track Name: "Faust Road" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-27 02:07:38.609860 Track Name: "Baby, I'm For Real" Artist Name: "The Originals" Web Link: https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl 
+GitHub_Runner_Date: 2025-07-27 02:07:38.609923 Track Name: "Still with Her" Artist Name: "F.P.J." Web Link: https://open.spotify.com/artist/4Fo8uuOLGWlitxqdmJyB8E 
+GitHub_Runner_Date: 2025-07-27 02:07:38.609949 Track Name: "Curious" Artist Name: "Midnight Star" Web Link: https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd 
+GitHub_Runner_Date: 2025-07-27 02:07:38.609971 Track Name: "Tie Me Up" Artist Name: "Mtume" Web Link: https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh 
+GitHub_Runner_Date: 2025-07-27 02:07:38.609992 Track Name: "Thin Line Between Love and Hate" Artist Name: "The Persuaders" Web Link: https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB 
+GitHub_Runner_Date: 2025-07-27 02:07:38.610013 Track Name: "Oh Sheila" Artist Name: "Ready For The World" Web Link: https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV 
+GitHub_Runner_Date: 2025-07-27 02:07:38.610057 Track Name: "Grown Man" Artist Name: "King George" Web Link: https://open.spotify.com/artist/4da15R0o9ipD6vPVPqYz5D 
+GitHub_Runner_Date: 2025-07-27 02:07:38.610078 Track Name: "Girl You Got It" Artist Name: "King George" Web Link: https://open.spotify.com/artist/4da15R0o9ipD6vPVPqYz5D 
+GitHub_Runner_Date: 2025-07-27 02:07:38.610098 Track Name: "Faust Road" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-27 02:07:38.610118 Track Name: "Road Warrior" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-27 02:07:38.610137 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-27 02:07:38.610156 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-27 02:07:38.610175 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-27 02:07:38.610194 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-27 02:07:38.610219 Track Name: "Waste Of Me - Live In Toronto 2024" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-07-27 02:07:38.610238 Track Name: "Powerful (feat. Ellie Goulding & Tarrus Riley)" Artist Name: "Major Lazer" Web Link: https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp 
+GitHub_Runner_Date: 2025-07-27 02:07:38.610268 Track Name: "She's Royal" Artist Name: "Tarrus Riley" Web Link: https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c 
+GitHub_Runner_Date: 2025-07-27 02:07:38.610288 Track Name: "Lighter (with Tarrus Riley & Rvssian)" Artist Name: "Shenseea" Web Link: https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB 
