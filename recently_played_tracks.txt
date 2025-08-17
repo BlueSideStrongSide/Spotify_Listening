@@ -8330,3 +8330,16 @@ GitHub_Runner_Date: 2025-08-16 01:47:37.378910 Track Name: "Ordinary" Artist Nam
 GitHub_Runner_Date: 2025-08-16 01:47:37.378929 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
 GitHub_Runner_Date: 2025-08-16 01:47:37.378956 Track Name: "Lucky" Artist Name: "Tish Hyman" Web Link: https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K 
 GitHub_Runner_Date: 2025-08-16 01:47:37.378977 Track Name: "Come Closer" Artist Name: "V. Cartier" Web Link: https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop 
+GitHub_Runner_Date: 2025-08-17 01:58:46.197964 Track Name: "Rose" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-17 01:58:46.198023 Track Name: "25.22" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-17 01:58:46.198049 Track Name: "Faust Road" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-17 01:58:46.198071 Track Name: "Road Warrior" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-17 01:58:46.198092 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-17 01:58:46.198112 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-17 01:58:46.198132 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-17 01:58:46.198152 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-17 01:58:46.198177 Track Name: "Blind Man" Artist Name: "Xavier Omär" Web Link: https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg 
+GitHub_Runner_Date: 2025-08-17 01:58:46.198203 Track Name: "If You Let Me" Artist Name: "Sinéad Harnett" Web Link: https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo 
+GitHub_Runner_Date: 2025-08-17 01:58:46.198223 Track Name: "Angela" Artist Name: "dvsn" Web Link: https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl 
+GitHub_Runner_Date: 2025-08-17 01:58:46.198242 Track Name: "The Line" Artist Name: "dvsn" Web Link: https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl 
+GitHub_Runner_Date: 2025-08-17 01:58:46.198262 Track Name: "Too Deep" Artist Name: "dvsn" Web Link: https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl 
