@@ -8370,3 +8370,15 @@ GitHub_Runner_Date: 2025-08-19 01:46:33.224778 Track Name: "Road Warrior" Artist
 GitHub_Runner_Date: 2025-08-19 01:46:33.224797 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-08-19 01:46:33.224815 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-08-19 01:46:33.224835 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-20 01:45:15.795845 Track Name: "TASTE" Artist Name: "Zack Zammit" Web Link: https://open.spotify.com/artist/49wXRt5415ZhrY8XBboo3R 
+GitHub_Runner_Date: 2025-08-20 01:45:15.795908 Track Name: "The Ladder" Artist Name: "Casual Healing" Web Link: https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi 
+GitHub_Runner_Date: 2025-08-20 01:45:15.795953 Track Name: "On The Road" Artist Name: "Randy Savvy" Web Link: https://open.spotify.com/artist/0K8DgzEBn94zNSMVQUUHio 
+GitHub_Runner_Date: 2025-08-20 01:45:15.795982 Track Name: "When You Call" Artist Name: "Penn" Web Link: https://open.spotify.com/artist/5hr0N82ZyJl3RqQXUt0TMR 
+GitHub_Runner_Date: 2025-08-20 01:45:15.796004 Track Name: "Angel" Artist Name: "O.LIVIA" Web Link: https://open.spotify.com/artist/0P48sYETVDCEp9hxvnUbsB 
+GitHub_Runner_Date: 2025-08-20 01:45:15.796024 Track Name: "Ordinary" Artist Name: "Alex Warren" Web Link: https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB 
+GitHub_Runner_Date: 2025-08-20 01:45:15.796045 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
+GitHub_Runner_Date: 2025-08-20 01:45:15.796065 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
+GitHub_Runner_Date: 2025-08-20 01:45:15.796094 Track Name: "On The Road" Artist Name: "Randy Savvy" Web Link: https://open.spotify.com/artist/0K8DgzEBn94zNSMVQUUHio 
+GitHub_Runner_Date: 2025-08-20 01:45:15.796114 Track Name: "Healing Hearts" Artist Name: "Mia" Web Link: https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820 
+GitHub_Runner_Date: 2025-08-20 01:45:15.796133 Track Name: "When You Call" Artist Name: "Penn" Web Link: https://open.spotify.com/artist/5hr0N82ZyJl3RqQXUt0TMR 
+GitHub_Runner_Date: 2025-08-20 01:45:15.796152 Track Name: "Angel" Artist Name: "O.LIVIA" Web Link: https://open.spotify.com/artist/0P48sYETVDCEp9hxvnUbsB 
