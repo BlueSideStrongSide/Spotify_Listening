@@ -8382,3 +8382,13 @@ GitHub_Runner_Date: 2025-08-20 01:45:15.796094 Track Name: "On The Road" Artist 
 GitHub_Runner_Date: 2025-08-20 01:45:15.796114 Track Name: "Healing Hearts" Artist Name: "Mia" Web Link: https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820 
 GitHub_Runner_Date: 2025-08-20 01:45:15.796133 Track Name: "When You Call" Artist Name: "Penn" Web Link: https://open.spotify.com/artist/5hr0N82ZyJl3RqQXUt0TMR 
 GitHub_Runner_Date: 2025-08-20 01:45:15.796152 Track Name: "Angel" Artist Name: "O.LIVIA" Web Link: https://open.spotify.com/artist/0P48sYETVDCEp9hxvnUbsB 
+GitHub_Runner_Date: 2025-08-21 01:44:11.343425 Track Name: "Weightless" Artist Name: "J. Brown" Web Link: https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb 
+GitHub_Runner_Date: 2025-08-21 01:44:11.343482 Track Name: "Feelings - Live in-studio, New York, 2023" Artist Name: "Dre Scot" Web Link: https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1 
+GitHub_Runner_Date: 2025-08-21 01:44:11.343512 Track Name: "Ordinary" Artist Name: "Alex Warren" Web Link: https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB 
+GitHub_Runner_Date: 2025-08-21 01:44:11.343535 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
+GitHub_Runner_Date: 2025-08-21 01:44:11.343556 Track Name: "Ordinary" Artist Name: "Alex Warren" Web Link: https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB 
+GitHub_Runner_Date: 2025-08-21 01:44:11.343576 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
+GitHub_Runner_Date: 2025-08-21 01:44:11.343596 Track Name: "Ordinary" Artist Name: "Alex Warren" Web Link: https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB 
+GitHub_Runner_Date: 2025-08-21 01:44:11.343616 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
+GitHub_Runner_Date: 2025-08-21 01:44:11.343636 Track Name: "TASTE" Artist Name: "Zack Zammit" Web Link: https://open.spotify.com/artist/49wXRt5415ZhrY8XBboo3R 
+GitHub_Runner_Date: 2025-08-21 01:44:11.343656 Track Name: "The Ladder" Artist Name: "Casual Healing" Web Link: https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi 
