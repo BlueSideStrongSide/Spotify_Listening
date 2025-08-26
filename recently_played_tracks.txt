@@ -8447,3 +8447,20 @@ GitHub_Runner_Date: 2025-08-25 01:49:13.926810 Track Name: "Ordinary" Artist Nam
 GitHub_Runner_Date: 2025-08-25 01:49:13.926828 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
 GitHub_Runner_Date: 2025-08-25 01:49:13.926846 Track Name: "Love On The Brain" Artist Name: "Trinix Remix" Web Link: https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ 
 GitHub_Runner_Date: 2025-08-25 01:49:13.926865 Track Name: "Sober" Artist Name: "CVIRO" Web Link: https://open.spotify.com/artist/5C5mVIHAEIbomEs6nsNWJ9 
+GitHub_Runner_Date: 2025-08-26 01:45:34.443892 Track Name: "Hello To Me" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-26 01:45:34.443950 Track Name: "Never any no good" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-26 01:45:34.443977 Track Name: "Faust Road" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444000 Track Name: "Road Warrior" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444030 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444051 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444071 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444091 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444115 Track Name: "What I Choose" Artist Name: "Taylor Hall" Web Link: https://open.spotify.com/artist/7xlDJey098LJnOQO9B4QR5 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444135 Track Name: "Trouble" Artist Name: "nezsa" Web Link: https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444155 Track Name: "Lejos - Flute Remix" Artist Name: "Kitoko Sound" Web Link: https://open.spotify.com/artist/7DqZ1E3qLhl3dXPc7jiVOb 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444173 Track Name: "You & iii" Artist Name: "Flow Clark" Web Link: https://open.spotify.com/artist/43nFOwQey7Bz7ttphB5cKC 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444192 Track Name: "When You're Around - inst." Artist Name: "Noxz" Web Link: https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444211 Track Name: "Apology" Artist Name: "Kat St. John" Web Link: https://open.spotify.com/artist/4ktn5LEdXHYwcKzeTeQNVs 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444231 Track Name: "I Choose Peace" Artist Name: "Yoneigh" Web Link: https://open.spotify.com/artist/4m2NIiUrFlWfJwHCIPUN6T 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444250 Track Name: "Wild Roses" Artist Name: "Kéo" Web Link: https://open.spotify.com/artist/4KihRC0JCRb7aBMYuPAOzA 
+GitHub_Runner_Date: 2025-08-26 01:45:34.444272 Track Name: "Is This Love" Artist Name: "Äyanna" Web Link: https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD 
