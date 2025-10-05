@@ -9015,3 +9015,18 @@ GitHub_Runner_Date: 2025-10-04 01:26:39.347017 Track Name: "Upside Down" Artist 
 GitHub_Runner_Date: 2025-10-04 01:26:39.347036 Track Name: "Guarding The Gates - From "Queen & Slim: The Soundtrack"" Artist Name: "Ms. Lauryn Hill" Web Link: https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl 
 GitHub_Runner_Date: 2025-10-04 01:26:39.347055 Track Name: "Guarding The Gates - From "Queen & Slim: The Soundtrack"" Artist Name: "Ms. Lauryn Hill" Web Link: https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl 
 GitHub_Runner_Date: 2025-10-04 01:26:39.347073 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
+GitHub_Runner_Date: 2025-10-05 01:46:53.175926 Track Name: "Too Good - The Wild Honey Pie Buzzsession" Artist Name: "Ayoni" Web Link: https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6 
+GitHub_Runner_Date: 2025-10-05 01:46:53.175991 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
+GitHub_Runner_Date: 2025-10-05 01:46:53.176017 Track Name: "Road Warrior" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-10-05 01:46:53.176040 Track Name: "Repeat" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-10-05 01:46:53.176060 Track Name: "Faust Road" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-10-05 01:46:53.176098 Track Name: "25.22" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-10-05 01:46:53.176124 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-10-05 01:46:53.176144 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-10-05 01:46:53.176164 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-10-05 01:46:53.176184 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-10-05 01:46:53.176209 Track Name: "Separate Hearts" Artist Name: "Brooke Sierra" Web Link: https://open.spotify.com/artist/6cGIpFhOg9W97aQtBwv5nx 
+GitHub_Runner_Date: 2025-10-05 01:46:53.176228 Track Name: "Upside Down" Artist Name: "GoldFord" Web Link: https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS 
+GitHub_Runner_Date: 2025-10-05 01:46:53.176247 Track Name: "Guarding The Gates - From "Queen & Slim: The Soundtrack"" Artist Name: "Ms. Lauryn Hill" Web Link: https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl 
+GitHub_Runner_Date: 2025-10-05 01:46:53.176267 Track Name: "Guarding The Gates - From "Queen & Slim: The Soundtrack"" Artist Name: "Ms. Lauryn Hill" Web Link: https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl 
+GitHub_Runner_Date: 2025-10-05 01:46:53.176286 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
