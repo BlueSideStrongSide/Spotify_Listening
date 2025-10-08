@@ -9061,3 +9061,19 @@ GitHub_Runner_Date: 2025-10-07 01:38:00.026344 Track Name: "Lay My Heart Down Ea
 GitHub_Runner_Date: 2025-10-07 01:38:00.026379 Track Name: "16mm" Artist Name: "Abi Ocia" Web Link: https://open.spotify.com/artist/4xiByOtOqXPUQU9wV4sMUb 
 GitHub_Runner_Date: 2025-10-07 01:38:00.026404 Track Name: "Black Leaves" Artist Name: "KIRBY" Web Link: https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU 
 GitHub_Runner_Date: 2025-10-07 01:38:00.026423 Track Name: "The Mates Of Soul - Remastered" Artist Name: "Taylor John Williams" Web Link: https://open.spotify.com/artist/73r6cgVUoNL47qnJAF0Ihw 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343009 Track Name: "You'll Be Back" Artist Name: "Dante" Web Link: https://open.spotify.com/artist/2U7JBLYtM1ZlNS8lly07Lo 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343102 Track Name: "Just One More Lie" Artist Name: "Nina Blaze" Web Link: https://open.spotify.com/artist/3ZqJbUCCCgtTCgGhWgrEOq 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343133 Track Name: "Can’t Cage My Soul" Artist Name: "Daxlin Veylo" Web Link: https://open.spotify.com/artist/6JJmnbgKidCvIjnVibRKwN 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343159 Track Name: "My Absolute" Artist Name: "Mar Omin" Web Link: https://open.spotify.com/artist/6zOPs5R5TIlc5VSm8bfC7F 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343180 Track Name: "messed up ways" Artist Name: "Abi Ocia" Web Link: https://open.spotify.com/artist/4xiByOtOqXPUQU9wV4sMUb 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343200 Track Name: "Betrayal's Regret" Artist Name: "The Soulful Gentlemen" Web Link: https://open.spotify.com/artist/3M6UgRvHTQPAjBZVYbDDzU 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343219 Track Name: "I'm Just a Man" Artist Name: "Cuffing Season" Web Link: https://open.spotify.com/artist/13UHmCCPYpmQ8wK7NTiTI5 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343239 Track Name: "Me vs Me (Fightin' Man Blues)" Artist Name: "Aventhis" Web Link: https://open.spotify.com/artist/0a97V3mDhGyNg93Dcf9Ahj 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343258 Track Name: "Are You All Good?" Artist Name: "breathe." Web Link: https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343277 Track Name: "How I Truly Feel" Artist Name: "Mar Omin" Web Link: https://open.spotify.com/artist/6zOPs5R5TIlc5VSm8bfC7F 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343296 Track Name: "Hypnotized" Artist Name: "Cuffing Season" Web Link: https://open.spotify.com/artist/13UHmCCPYpmQ8wK7NTiTI5 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343315 Track Name: "Mercy on my Grave" Artist Name: "Aventhis" Web Link: https://open.spotify.com/artist/0a97V3mDhGyNg93Dcf9Ahj 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343335 Track Name: "Don't Call Me When You're Lonely" Artist Name: "Juno Skye" Web Link: https://open.spotify.com/artist/6Cj6b8mNLrtMGn78MY1f3b 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343354 Track Name: "Ride the Storm" Artist Name: "GoldFord" Web Link: https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343374 Track Name: "Get You The Moon" Artist Name: "Quail P" Web Link: https://open.spotify.com/artist/6kOrV7zImC5ky0SwYzfqA3 
+GitHub_Runner_Date: 2025-10-08 01:38:24.343393 Track Name: "Into You" Artist Name: "Jack Hawitt" Web Link: https://open.spotify.com/artist/0AikfZHjypmTXKZnPUq5ER 
