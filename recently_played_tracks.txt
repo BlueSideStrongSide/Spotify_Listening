@@ -9440,3 +9440,18 @@ GitHub_Runner_Date: 2025-11-02 01:50:17.164485 Track Name: "This Song (Radio)" A
 GitHub_Runner_Date: 2025-11-02 01:50:17.164505 Track Name: "24 Hours" Artist Name: "Kaylow" Web Link: https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH 
 GitHub_Runner_Date: 2025-11-02 01:50:17.164524 Track Name: "Let the Guitar Sing (Live)" Artist Name: "AJ Ghent [ j-ent ]" Web Link: https://open.spotify.com/artist/6gLGK4HewZQk0009RLQ3nx 
 GitHub_Runner_Date: 2025-11-02 01:50:17.164543 Track Name: "Reality" Artist Name: "Allen Stone" Web Link: https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814238 Track Name: "To the Moon" Artist Name: "Wé Ani" Web Link: https://open.spotify.com/artist/0VcXm1al35QNsj9tbAnCJm 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814340 Track Name: "KREAM" Artist Name: "DIXSON" Web Link: https://open.spotify.com/artist/61677A13kBwbTfqECI65p8 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814403 Track Name: "Can't Live Without You" Artist Name: "Charlie Wilson" Web Link: https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814450 Track Name: "Raye" Artist Name: "John Splithoff" Web Link: https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814496 Track Name: "Raye" Artist Name: "John Splithoff" Web Link: https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814538 Track Name: "Two Trees" Artist Name: "Ben L'Oncle Soul" Web Link: https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814575 Track Name: "I Just Can't Love You" Artist Name: "J. Brown" Web Link: https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814608 Track Name: "Patience" Artist Name: "Faye Meana" Web Link: https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814643 Track Name: "Surreal" Artist Name: "Natural High Music" Web Link: https://open.spotify.com/artist/0YC4SDrEwmvpxsEM2hkH64 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814676 Track Name: "Kiss Me" Artist Name: "JANE HANDCOCK" Web Link: https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814708 Track Name: "Craving" Artist Name: "Matt Woods" Web Link: https://open.spotify.com/artist/7lWm7B37N2Phj7l1bpEx91 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814739 Track Name: "You Are (feat. Amber Olivier)" Artist Name: "SamTRax" Web Link: https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814795 Track Name: "This Song (Radio)" Artist Name: "Danny Boy" Web Link: https://open.spotify.com/artist/3Cntpdjm5aq13H1IalBAga 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814837 Track Name: "24 Hours" Artist Name: "Kaylow" Web Link: https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH 
+GitHub_Runner_Date: 2025-11-03 01:50:03.814870 Track Name: "Let the Guitar Sing (Live)" Artist Name: "AJ Ghent [ j-ent ]" Web Link: https://open.spotify.com/artist/6gLGK4HewZQk0009RLQ3nx 
