@@ -9455,3 +9455,19 @@ GitHub_Runner_Date: 2025-11-03 01:50:03.814739 Track Name: "You Are (feat. Amber
 GitHub_Runner_Date: 2025-11-03 01:50:03.814795 Track Name: "This Song (Radio)" Artist Name: "Danny Boy" Web Link: https://open.spotify.com/artist/3Cntpdjm5aq13H1IalBAga 
 GitHub_Runner_Date: 2025-11-03 01:50:03.814837 Track Name: "24 Hours" Artist Name: "Kaylow" Web Link: https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH 
 GitHub_Runner_Date: 2025-11-03 01:50:03.814870 Track Name: "Let the Guitar Sing (Live)" Artist Name: "AJ Ghent [ j-ent ]" Web Link: https://open.spotify.com/artist/6gLGK4HewZQk0009RLQ3nx 
+GitHub_Runner_Date: 2025-11-04 01:45:54.393880 Track Name: "Not For Everybody" Artist Name: "Pete Bailey" Web Link: https://open.spotify.com/artist/0bl4fnN58e5IhIsi5DleGy 
+GitHub_Runner_Date: 2025-11-04 01:45:54.393935 Track Name: "This Empty Bedroom" Artist Name: "Big Hurt" Web Link: https://open.spotify.com/artist/4W8qnDEWBenOIs4maSHEeh 
+GitHub_Runner_Date: 2025-11-04 01:45:54.393961 Track Name: "Missing You" Artist Name: "AJ Ghent [ j-ent ]" Web Link: https://open.spotify.com/artist/6gLGK4HewZQk0009RLQ3nx 
+GitHub_Runner_Date: 2025-11-04 01:45:54.393983 Track Name: "I'll Be" Artist Name: "Keffer" Web Link: https://open.spotify.com/artist/254WOYNv1h1vvGxTbrMots 
+GitHub_Runner_Date: 2025-11-04 01:45:54.394003 Track Name: "Ephesians 6 10-20" Artist Name: "Lank" Web Link: https://open.spotify.com/artist/2eoL7JU2LjJZyXX2LlF9uG 
+GitHub_Runner_Date: 2025-11-04 01:45:54.394024 Track Name: "Lost Road Blues" Artist Name: "True Roots Blues" Web Link: https://open.spotify.com/artist/19CiSTL0SVziGSG0yLYeGp 
+GitHub_Runner_Date: 2025-11-04 01:45:54.394044 Track Name: "More Than A Woman" Artist Name: "Hari" Web Link: https://open.spotify.com/artist/3CXoOW72D46eDQgIQIPxfU 
+GitHub_Runner_Date: 2025-11-04 01:45:54.394064 Track Name: "Wait It Out" Artist Name: "Lady Harmony" Web Link: https://open.spotify.com/artist/5tDlgMd5IZh4DFbR9NaMfi 
+GitHub_Runner_Date: 2025-11-04 01:45:54.394090 Track Name: "Karma" Artist Name: "Scars" Web Link: https://open.spotify.com/artist/2AfLf4ZFQEqPTPrRVoEtvK 
+GitHub_Runner_Date: 2025-11-04 01:45:54.394110 Track Name: "Auntie Knows Best" Artist Name: "We Are Still Here" Web Link: https://open.spotify.com/artist/2pvb7TYkq4qJZ4xOeZKKY8 
+GitHub_Runner_Date: 2025-11-04 01:45:54.394130 Track Name: "Slide Thru" Artist Name: "Michael Minelli" Web Link: https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL 
+GitHub_Runner_Date: 2025-11-04 01:45:54.394159 Track Name: "Candle" Artist Name: "Jada Moss" Web Link: https://open.spotify.com/artist/0sPtiBehuC32QRgFF2rNA2 
+GitHub_Runner_Date: 2025-11-04 01:45:54.394178 Track Name: "To the Moon" Artist Name: "Wé Ani" Web Link: https://open.spotify.com/artist/0VcXm1al35QNsj9tbAnCJm 
+GitHub_Runner_Date: 2025-11-04 01:45:54.394200 Track Name: "KREAM" Artist Name: "DIXSON" Web Link: https://open.spotify.com/artist/61677A13kBwbTfqECI65p8 
+GitHub_Runner_Date: 2025-11-04 01:45:54.394219 Track Name: "Can't Live Without You" Artist Name: "Charlie Wilson" Web Link: https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w 
+GitHub_Runner_Date: 2025-11-04 01:45:54.394238 Track Name: "Raye" Artist Name: "John Splithoff" Web Link: https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD 
