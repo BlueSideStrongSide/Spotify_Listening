@@ -9471,3 +9471,19 @@ GitHub_Runner_Date: 2025-11-04 01:45:54.394178 Track Name: "To the Moon" Artist 
 GitHub_Runner_Date: 2025-11-04 01:45:54.394200 Track Name: "KREAM" Artist Name: "DIXSON" Web Link: https://open.spotify.com/artist/61677A13kBwbTfqECI65p8 
 GitHub_Runner_Date: 2025-11-04 01:45:54.394219 Track Name: "Can't Live Without You" Artist Name: "Charlie Wilson" Web Link: https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w 
 GitHub_Runner_Date: 2025-11-04 01:45:54.394238 Track Name: "Raye" Artist Name: "John Splithoff" Web Link: https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758353 Track Name: "Never any no good" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758412 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758438 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758459 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758478 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758497 Track Name: "Smack That" Artist Name: "MC-DG" Web Link: https://open.spotify.com/artist/2GHRtfzfnAexolvHr5jsnS 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758516 Track Name: "Not For Everybody" Artist Name: "Pete Bailey" Web Link: https://open.spotify.com/artist/0bl4fnN58e5IhIsi5DleGy 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758541 Track Name: "This Empty Bedroom" Artist Name: "Big Hurt" Web Link: https://open.spotify.com/artist/4W8qnDEWBenOIs4maSHEeh 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758561 Track Name: "Missing You" Artist Name: "AJ Ghent [ j-ent ]" Web Link: https://open.spotify.com/artist/6gLGK4HewZQk0009RLQ3nx 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758580 Track Name: "I'll Be" Artist Name: "Keffer" Web Link: https://open.spotify.com/artist/254WOYNv1h1vvGxTbrMots 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758599 Track Name: "Ephesians 6 10-20" Artist Name: "Lank" Web Link: https://open.spotify.com/artist/2eoL7JU2LjJZyXX2LlF9uG 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758617 Track Name: "Lost Road Blues" Artist Name: "True Roots Blues" Web Link: https://open.spotify.com/artist/19CiSTL0SVziGSG0yLYeGp 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758635 Track Name: "More Than A Woman" Artist Name: "Hari" Web Link: https://open.spotify.com/artist/3CXoOW72D46eDQgIQIPxfU 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758653 Track Name: "Wait It Out" Artist Name: "Lady Harmony" Web Link: https://open.spotify.com/artist/5tDlgMd5IZh4DFbR9NaMfi 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758672 Track Name: "Karma" Artist Name: "Scars" Web Link: https://open.spotify.com/artist/2AfLf4ZFQEqPTPrRVoEtvK 
+GitHub_Runner_Date: 2025-11-05 01:47:01.758690 Track Name: "Auntie Knows Best" Artist Name: "We Are Still Here" Web Link: https://open.spotify.com/artist/2pvb7TYkq4qJZ4xOeZKKY8 
