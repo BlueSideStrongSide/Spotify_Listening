@@ -9580,3 +9580,20 @@ GitHub_Runner_Date: 2025-11-12 01:46:43.602139 Track Name: "It'll Be Alright" Ar
 GitHub_Runner_Date: 2025-11-12 01:46:43.602159 Track Name: "I Don't Want Your Money (feat. H.E.R.)" Artist Name: "Ed Sheeran" Web Link: https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V 
 GitHub_Runner_Date: 2025-11-12 01:46:43.602178 Track Name: "Temptations" Artist Name: "S. Fidelity" Web Link: https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW 
 GitHub_Runner_Date: 2025-11-12 01:46:43.602196 Track Name: "Choosing Myself / Still Alone - Acoustic" Artist Name: "Naomi Raine" Web Link: https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057386 Track Name: "Rose" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057445 Track Name: "Road Warrior" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057471 Track Name: "Faust Road" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057493 Track Name: "Never any no good" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057524 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057545 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057564 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057583 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057602 Track Name: "Love Don't Live Here" Artist Name: "Breaking Rust" Web Link: https://open.spotify.com/artist/3h9rLaviiFj1TeEhdIRpP5 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057621 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057640 Track Name: "Stones" Artist Name: "Emmit Fenn" Web Link: https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057659 Track Name: "Frank" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057677 Track Name: "Never any no good - Live In Minneapolis 12/11/19" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057721 Track Name: "Lucy The Tease - Live In Minneapolis 12/11/19" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057741 Track Name: "Rose - Live In Minneapolis 12/11/19" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057760 Track Name: "DIAMOND (I NEED LOVE)" Artist Name: "CHOSZN" Web Link: https://open.spotify.com/artist/2B9U7mQ6lCD1a7nycReVUK 
+GitHub_Runner_Date: 2025-11-13 01:48:15.057778 Track Name: "I Want You" Artist Name: "Leela James" Web Link: https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2 
