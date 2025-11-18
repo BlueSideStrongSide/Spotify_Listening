@@ -9661,3 +9661,19 @@ GitHub_Runner_Date: 2025-11-17 01:48:28.108582 Track Name: "I'll Never Let Go" A
 GitHub_Runner_Date: 2025-11-17 01:48:28.108616 Track Name: "Stones" Artist Name: "Emmit Fenn" Web Link: https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6 
 GitHub_Runner_Date: 2025-11-17 01:48:28.108651 Track Name: "Frank" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
 GitHub_Runner_Date: 2025-11-17 01:48:28.108688 Track Name: "Never any no good - Live In Minneapolis 12/11/19" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353428 Track Name: "Grenade Blues Remix" Artist Name: "Xenoner" Web Link: https://open.spotify.com/artist/6CyTY01MSE05psT3dC7ep0 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353490 Track Name: "I Feel Love" Artist Name: "Harry Linacre" Web Link: https://open.spotify.com/artist/56gw7HCLlkBIwYqZS2ftIO 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353516 Track Name: "Show Me How" Artist Name: "Kingston Cane" Web Link: https://open.spotify.com/artist/1yfEZGomeDAQvuHrFyPBmI 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353539 Track Name: "You Are The Glow" Artist Name: "Lenzspot" Web Link: https://open.spotify.com/artist/5Bv2R6g89dxUwVXBFu2BCx 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353560 Track Name: "Rose" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353580 Track Name: "Road Warrior" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353599 Track Name: "Faust Road" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353618 Track Name: "Never any no good" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353637 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353657 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353676 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353695 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353720 Track Name: "Love Don't Live Here" Artist Name: "Breaking Rust" Web Link: https://open.spotify.com/artist/3h9rLaviiFj1TeEhdIRpP5 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353741 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353761 Track Name: "Stones" Artist Name: "Emmit Fenn" Web Link: https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6 
+GitHub_Runner_Date: 2025-11-18 01:46:25.353781 Track Name: "Frank" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
