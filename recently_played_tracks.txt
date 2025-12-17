@@ -10126,3 +10126,18 @@ GitHub_Runner_Date: 2025-12-16 01:54:04.522153 Track Name: "Looking Back" Artist
 GitHub_Runner_Date: 2025-12-16 01:54:04.522172 Track Name: "Sun + Moon" Artist Name: "Grimm Lynn" Web Link: https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh 
 GitHub_Runner_Date: 2025-12-16 01:54:04.522189 Track Name: "say my name again" Artist Name: "ïnnü" Web Link: https://open.spotify.com/artist/0EOKPBngScriBSl8h4balK 
 GitHub_Runner_Date: 2025-12-16 01:54:04.522208 Track Name: "Weightless" Artist Name: "J. Brown" Web Link: https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb 
+GitHub_Runner_Date: 2025-12-17 01:49:29.133859 Track Name: "Feelings - Live in-studio, New York, 2023" Artist Name: "Dre Scot" Web Link: https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1 
+GitHub_Runner_Date: 2025-12-17 01:49:29.133913 Track Name: "I Just Can't Love You" Artist Name: "J. Brown" Web Link: https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb 
+GitHub_Runner_Date: 2025-12-17 01:49:29.133940 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
+GitHub_Runner_Date: 2025-12-17 01:49:29.133965 Track Name: "You'll Be Back" Artist Name: "Dante" Web Link: https://open.spotify.com/artist/2U7JBLYtM1ZlNS8lly07Lo 
+GitHub_Runner_Date: 2025-12-17 01:49:29.133996 Track Name: "I'll Never Let Go" Artist Name: "Soul Blues Icons" Web Link: https://open.spotify.com/artist/0QCgvplRxUtmDPfbIXsn3u 
+GitHub_Runner_Date: 2025-12-17 01:49:29.134017 Track Name: "You'll Be Back" Artist Name: "Dante" Web Link: https://open.spotify.com/artist/2U7JBLYtM1ZlNS8lly07Lo 
+GitHub_Runner_Date: 2025-12-17 01:49:29.134036 Track Name: "WDWGILY" Artist Name: "SYML" Web Link: https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0 
+GitHub_Runner_Date: 2025-12-17 01:49:29.134055 Track Name: "Bah Humbug" Artist Name: "Pentatonix" Web Link: https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53 
+GitHub_Runner_Date: 2025-12-17 01:49:29.134079 Track Name: "Santa Be Good to My Baby" Artist Name: "Pentatonix" Web Link: https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53 
+GitHub_Runner_Date: 2025-12-17 01:49:29.134098 Track Name: "Flowers" Artist Name: "Wé Ani" Web Link: https://open.spotify.com/artist/0VcXm1al35QNsj9tbAnCJm 
+GitHub_Runner_Date: 2025-12-17 01:49:29.134120 Track Name: "Good On Me" Artist Name: "Leela James" Web Link: https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2 
+GitHub_Runner_Date: 2025-12-17 01:49:29.134139 Track Name: "Before I Take A While" Artist Name: "Elmiene" Web Link: https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL 
+GitHub_Runner_Date: 2025-12-17 01:49:29.134157 Track Name: "Promise To Love" Artist Name: "LeVelle" Web Link: https://open.spotify.com/artist/4n3eYLfPqAvWcorjUW3vyP 
+GitHub_Runner_Date: 2025-12-17 01:49:29.134176 Track Name: "Callin' for You" Artist Name: "Vicki Vox" Web Link: https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ 
+GitHub_Runner_Date: 2025-12-17 01:49:29.134194 Track Name: "Looking Back" Artist Name: "Brian Culbertson" Web Link: https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE 
