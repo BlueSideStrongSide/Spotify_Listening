@@ -10201,3 +10201,4 @@ GitHub_Runner_Date: 2025-12-21 01:59:48.454671 Track Name: "Before I Take A Whil
 GitHub_Runner_Date: 2025-12-21 01:59:48.454692 Track Name: "Promise To Love" Artist Name: "LeVelle" Web Link: https://open.spotify.com/artist/4n3eYLfPqAvWcorjUW3vyP 
 GitHub_Runner_Date: 2025-12-21 01:59:48.454713 Track Name: "Callin' for You" Artist Name: "Vicki Vox" Web Link: https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ 
 GitHub_Runner_Date: 2025-12-21 01:59:48.454733 Track Name: "Looking Back" Artist Name: "Brian Culbertson" Web Link: https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE 
+GitHub_Runner_Date: 2025-12-22 01:59:14.537692 Track Name: "Feelings - Live in-studio, New York, 2023" Artist Name: "Dre Scot" Web Link: https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1 
