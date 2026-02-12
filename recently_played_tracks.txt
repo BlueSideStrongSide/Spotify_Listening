@@ -11005,3 +11005,19 @@ GitHub_Runner_Date: 2026-02-11 02:38:43.975061 Track Name: "Less" Artist Name: "
 GitHub_Runner_Date: 2026-02-11 02:38:43.975079 Track Name: "Heartbreak Is the Healer’s Call" Artist Name: "Olivia B Moore" Web Link: https://open.spotify.com/artist/1YY7Y1erZcoybkGPxPPBTa 
 GitHub_Runner_Date: 2026-02-11 02:38:43.975101 Track Name: "How's It Gonna Be" Artist Name: "Melania Maye" Web Link: https://open.spotify.com/artist/4fLN4MdVopdfWB5nZ9p3at 
 GitHub_Runner_Date: 2026-02-11 02:38:43.975120 Track Name: "If I Can Dream" Artist Name: "The Chordline" Web Link: https://open.spotify.com/artist/5geqBUxi8vvBZ761nAttsU 
+GitHub_Runner_Date: 2026-02-12 02:33:04.797850 Track Name: "Road Warrior" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.797899 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.797924 Track Name: "Lyla Emily" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.797965 Track Name: "Fish Called Happy" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.797991 Track Name: "Hang Tight" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.798012 Track Name: "Might get strange" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.798031 Track Name: "Much Too Much" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.798049 Track Name: "Mascara" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.798067 Track Name: "Rose2" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.798085 Track Name: "Seconds Please" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.798104 Track Name: "Head & Heart" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.798122 Track Name: "Graceland" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.798140 Track Name: "Poison" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.798158 Track Name: "Crush" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.798186 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-02-12 02:33:04.798205 Track Name: "Less" Artist Name: "Stephenezord" Web Link: https://open.spotify.com/artist/6AFYy6NY1zvxWgsOk4hjrr 
