@@ -11352,3 +11352,17 @@ GitHub_Runner_Date: 2026-03-06 02:23:55.450484 Track Name: "I Deserve It" Artist
 GitHub_Runner_Date: 2026-03-06 02:23:55.450509 Track Name: "12 AM in Bali" Artist Name: "SMANDEM." Web Link: https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol 
 GitHub_Runner_Date: 2026-03-06 02:23:55.450533 Track Name: "Craving" Artist Name: "Matt Woods" Web Link: https://open.spotify.com/artist/7lWm7B37N2Phj7l1bpEx91 
 GitHub_Runner_Date: 2026-03-06 02:23:55.450557 Track Name: "I Don’t Need Another Pretender" Artist Name: "Elijah Holmes" Web Link: https://open.spotify.com/artist/2DT3XSJvo0aod4XIsi1Ode 
+GitHub_Runner_Date: 2026-03-07 02:10:20.865934 Track Name: "Road Warrior" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-03-07 02:10:20.865994 Track Name: "Rose" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-03-07 02:10:20.866025 Track Name: "Never any no good" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-03-07 02:10:20.866052 Track Name: "Left Alone" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-03-07 02:10:20.866076 Track Name: "Repeat" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-03-07 02:10:20.866100 Track Name: "25.22" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-03-07 02:10:20.866124 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-03-07 02:10:20.866148 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-03-07 02:10:20.866182 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-03-07 02:10:20.866207 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-03-07 02:10:20.866230 Track Name: "Brand New - A COLORS SHOW" Artist Name: "Sevana" Web Link: https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS 
+GitHub_Runner_Date: 2026-03-07 02:10:20.866253 Track Name: "Contagious" Artist Name: "Bee-B" Web Link: https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc 
+GitHub_Runner_Date: 2026-03-07 02:10:20.866291 Track Name: "All My Sweetest Dreams" Artist Name: "Emmaline" Web Link: https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5 
+GitHub_Runner_Date: 2026-03-07 02:10:20.866316 Track Name: "Still Dreaming" Artist Name: "Raveena" Web Link: https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS 
