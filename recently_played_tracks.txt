@@ -11656,3 +11656,20 @@ GitHub_Runner_Date: 2026-03-26 02:38:32.777919 Track Name: "Always There" Artist
 GitHub_Runner_Date: 2026-03-26 02:38:32.777943 Track Name: "If The Love Goes - A COLORS SHOW" Artist Name: "Jamilah Barry" Web Link: https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv 
 GitHub_Runner_Date: 2026-03-26 02:38:32.777968 Track Name: "On God!" Artist Name: "Tiana Major9" Web Link: https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9 
 GitHub_Runner_Date: 2026-03-26 02:38:32.777993 Track Name: "Caught In A Lie" Artist Name: "The Hics" Web Link: https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo 
+GitHub_Runner_Date: 2026-03-27 02:40:33.047833 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-03-27 02:40:33.047892 Track Name: "isthislove" Artist Name: "goodboy noah" Web Link: https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon 
+GitHub_Runner_Date: 2026-03-27 02:40:33.047921 Track Name: "On The Market" Artist Name: "Marco McKinnis" Web Link: https://open.spotify.com/artist/2hnEiOVSXzO81ruLVH0KUR 
+GitHub_Runner_Date: 2026-03-27 02:40:33.047946 Track Name: "fade away" Artist Name: "kai" Web Link: https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml 
+GitHub_Runner_Date: 2026-03-27 02:40:33.047970 Track Name: "Straight Lines" Artist Name: "KWAYE" Web Link: https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ 
+GitHub_Runner_Date: 2026-03-27 02:40:33.047992 Track Name: "Get You - Recorded at Spotify Studios NYC" Artist Name: "Miguel" Web Link: https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK 
+GitHub_Runner_Date: 2026-03-27 02:40:33.048014 Track Name: "Holy (Reprise)" Artist Name: "Jamila Woods" Web Link: https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B 
+GitHub_Runner_Date: 2026-03-27 02:40:33.048035 Track Name: "Heartbreak Anniversary" Artist Name: "GIVĒON" Web Link: https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP 
+GitHub_Runner_Date: 2026-03-27 02:40:33.048062 Track Name: "Let Me Into Your Heart" Artist Name: "Isaac Waddington" Web Link: https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH 
+GitHub_Runner_Date: 2026-03-27 02:40:33.048085 Track Name: "Where You Are" Artist Name: "Vivian Green" Web Link: https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs 
+GitHub_Runner_Date: 2026-03-27 02:40:33.048107 Track Name: "Sweeter (feat. Terrace Martin)" Artist Name: "Leon Bridges" Web Link: https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x 
+GitHub_Runner_Date: 2026-03-27 02:40:33.048129 Track Name: "I Don’t Need Another Pretender" Artist Name: "Elijah Holmes" Web Link: https://open.spotify.com/artist/2DT3XSJvo0aod4XIsi1Ode 
+GitHub_Runner_Date: 2026-03-27 02:40:33.048161 Track Name: "So Easy (To Fall In Love)" Artist Name: "Olivia Dean" Web Link: https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW 
+GitHub_Runner_Date: 2026-03-27 02:40:33.048183 Track Name: "Man I Need" Artist Name: "Olivia Dean" Web Link: https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW 
+GitHub_Runner_Date: 2026-03-27 02:40:33.048204 Track Name: "Always There" Artist Name: "Aint Afraid" Web Link: https://open.spotify.com/artist/1E6I6xhlNmVIgnDGkikmj5 
+GitHub_Runner_Date: 2026-03-27 02:40:33.048225 Track Name: "If The Love Goes - A COLORS SHOW" Artist Name: "Jamilah Barry" Web Link: https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv 
+GitHub_Runner_Date: 2026-03-27 02:40:33.048246 Track Name: "On God!" Artist Name: "Tiana Major9" Web Link: https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9 
