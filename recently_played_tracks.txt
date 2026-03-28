@@ -11673,3 +11673,22 @@ GitHub_Runner_Date: 2026-03-27 02:40:33.048183 Track Name: "Man I Need" Artist N
 GitHub_Runner_Date: 2026-03-27 02:40:33.048204 Track Name: "Always There" Artist Name: "Aint Afraid" Web Link: https://open.spotify.com/artist/1E6I6xhlNmVIgnDGkikmj5 
 GitHub_Runner_Date: 2026-03-27 02:40:33.048225 Track Name: "If The Love Goes - A COLORS SHOW" Artist Name: "Jamilah Barry" Web Link: https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv 
 GitHub_Runner_Date: 2026-03-27 02:40:33.048246 Track Name: "On God!" Artist Name: "Tiana Major9" Web Link: https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822390 Track Name: "My First Love" Artist Name: "Carl Thomas" Web Link: https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822458 Track Name: "So Easy (To Fall In Love)" Artist Name: "Olivia Dean" Web Link: https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822486 Track Name: "So Easy (To Fall In Love)" Artist Name: "Olivia Dean" Web Link: https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822508 Track Name: "Man I Need" Artist Name: "Olivia Dean" Web Link: https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822530 Track Name: "My First Love" Artist Name: "Carl Thomas" Web Link: https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822550 Track Name: "Anything" Artist Name: "Carl Thomas" Web Link: https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822571 Track Name: "Lets Talk About It (Interlude)" Artist Name: "Carl Thomas" Web Link: https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822592 Track Name: "Come & Talk To Me" Artist Name: "Jodeci" Web Link: https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822613 Track Name: "Make Love To Me" Artist Name: "Luke James" Web Link: https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822634 Track Name: "Sumthin' Sumthin' - Remastered 2021" Artist Name: "Maxwell" Web Link: https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822654 Track Name: "Best Part of the Day" Artist Name: "Urban Mystic" Web Link: https://open.spotify.com/artist/1qn0COtzEiEinZ1xE3yfA0 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822675 Track Name: "4evermore" Artist Name: "Anthony David" Web Link: https://open.spotify.com/artist/6ktPQsThz35JwdtDsvi51S 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822695 Track Name: "Giving You All My Love" Artist Name: "Carl Thomas" Web Link: https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822715 Track Name: "Fanatic" Artist Name: "Vivian Green" Web Link: https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822736 Track Name: "Before I Let You Go" Artist Name: "Blackstreet" Web Link: https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822757 Track Name: "Borrow You" Artist Name: "Eric Roberson" Web Link: https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822777 Track Name: "Fortunate" Artist Name: "Maxwell" Web Link: https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822797 Track Name: "Woke up in the Morning" Artist Name: "Carl Thomas" Web Link: https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U 
+GitHub_Runner_Date: 2026-03-28 02:30:20.822817 Track Name: "If It's Love" Artist Name: "Kem" Web Link: https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R 
