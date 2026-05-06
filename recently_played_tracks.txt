@@ -12289,3 +12289,16 @@ GitHub_Runner_Date: 2026-05-05 03:18:48.269460 Track Name: "TIRED" Artist Name: 
 GitHub_Runner_Date: 2026-05-05 03:18:48.269483 Track Name: "how deep?" Artist Name: "Tai Verdes" Web Link: https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I 
 GitHub_Runner_Date: 2026-05-05 03:18:48.269504 Track Name: "Sweet" Artist Name: "[ K S R ]" Web Link: https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk 
 GitHub_Runner_Date: 2026-05-05 03:18:48.269524 Track Name: "Mercury" Artist Name: "Naye Ayla" Web Link: https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW 
+GitHub_Runner_Date: 2026-05-06 03:28:21.168548 Track Name: "Juke Joint Love" Artist Name: "Simply Wayne" Web Link: https://open.spotify.com/artist/36LjuZlzIIpKKUiA1LfRx7 
+GitHub_Runner_Date: 2026-05-06 03:28:21.168608 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-06 03:28:21.168648 Track Name: "Feel Something" Artist Name: "Jimmy Nevis" Web Link: https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3 
+GitHub_Runner_Date: 2026-05-06 03:28:21.168672 Track Name: "Sum Good" Artist Name: "Rosehardt" Web Link: https://open.spotify.com/artist/4r6z3Bx1rDiuqkyKGXGvSN 
+GitHub_Runner_Date: 2026-05-06 03:28:21.168696 Track Name: "Glow Queen" Artist Name: "Valntna" Web Link: https://open.spotify.com/artist/2MRXJHWrV72Bd35kawjirn 
+GitHub_Runner_Date: 2026-05-06 03:28:21.168720 Track Name: "Meant2B" Artist Name: "Al Hostile" Web Link: https://open.spotify.com/artist/1eRxftrJjUxQTut4Svctfm 
+GitHub_Runner_Date: 2026-05-06 03:28:21.168741 Track Name: "I Don’t Need Another Pretender" Artist Name: "Elijah Holmes" Web Link: https://open.spotify.com/artist/2DT3XSJvo0aod4XIsi1Ode 
+GitHub_Runner_Date: 2026-05-06 03:28:21.168767 Track Name: "Dreamer" Artist Name: "Carl Thomas" Web Link: https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U 
+GitHub_Runner_Date: 2026-05-06 03:28:21.168789 Track Name: "Make It Alright" Artist Name: "Carl Thomas" Web Link: https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U 
+GitHub_Runner_Date: 2026-05-06 03:28:21.168810 Track Name: "Know It's Alright (Interlude)" Artist Name: "Carl Thomas" Web Link: https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U 
+GitHub_Runner_Date: 2026-05-06 03:28:21.168832 Track Name: "She Is (feat. LL Cool J)" Artist Name: "Carl Thomas" Web Link: https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U 
+GitHub_Runner_Date: 2026-05-06 03:28:21.168853 Track Name: "Need U Bad" Artist Name: "Jazmine Sullivan" Web Link: https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq 
+GitHub_Runner_Date: 2026-05-06 03:28:21.168874 Track Name: "Tick Tick Boom (feat. BygTwo3)" Artist Name: "Sage The Gemini" Web Link: https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z 
