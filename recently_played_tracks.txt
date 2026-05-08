@@ -12314,3 +12314,18 @@ GitHub_Runner_Date: 2026-05-07 03:28:38.936439 Track Name: "The King's Affirmati
 GitHub_Runner_Date: 2026-05-07 03:28:38.936460 Track Name: "I Don’t Need Another Pretender" Artist Name: "Elijah Holmes" Web Link: https://open.spotify.com/artist/2DT3XSJvo0aod4XIsi1Ode 
 GitHub_Runner_Date: 2026-05-07 03:28:38.936483 Track Name: "Juke Joint Love" Artist Name: "Simply Wayne" Web Link: https://open.spotify.com/artist/36LjuZlzIIpKKUiA1LfRx7 
 GitHub_Runner_Date: 2026-05-07 03:28:38.936504 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-08 03:25:05.076938 Track Name: "Anything" Artist Name: "Carl Thomas" Web Link: https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U 
+GitHub_Runner_Date: 2026-05-08 03:25:05.076991 Track Name: "Weightless" Artist Name: "J. Brown" Web Link: https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb 
+GitHub_Runner_Date: 2026-05-08 03:25:05.077009 Track Name: "A Love So Sweet" Artist Name: "Bobby Stonewall" Web Link: https://open.spotify.com/artist/6N9vElqhP59IqSZINRrqpQ 
+GitHub_Runner_Date: 2026-05-08 03:25:05.077025 Track Name: "I Don’t Need Another Pretender" Artist Name: "Elijah Holmes" Web Link: https://open.spotify.com/artist/2DT3XSJvo0aod4XIsi1Ode 
+GitHub_Runner_Date: 2026-05-08 03:25:05.077044 Track Name: "Dawn Rise" Artist Name: "Colton Bryan" Web Link: https://open.spotify.com/artist/1x9dy0YY8U7OAbT3opvFjO 
+GitHub_Runner_Date: 2026-05-08 03:25:05.077058 Track Name: "Feel Something" Artist Name: "Jimmy Nevis" Web Link: https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3 
+GitHub_Runner_Date: 2026-05-08 03:25:05.077073 Track Name: "Feel Something" Artist Name: "Jimmy Nevis" Web Link: https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3 
+GitHub_Runner_Date: 2026-05-08 03:25:05.077087 Track Name: "Hunny" Artist Name: "Meron T" Web Link: https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb 
+GitHub_Runner_Date: 2026-05-08 03:25:05.077101 Track Name: "Til The End" Artist Name: "Jessie Ware" Web Link: https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc 
+GitHub_Runner_Date: 2026-05-08 03:25:05.077116 Track Name: "Let's Go to Work - Mystique Alternative Remix" Artist Name: "Michon Young" Web Link: https://open.spotify.com/artist/2JL7mMLV6GXlpudRLGcd56 
+GitHub_Runner_Date: 2026-05-08 03:25:05.077131 Track Name: "Raye" Artist Name: "John Splithoff" Web Link: https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD 
+GitHub_Runner_Date: 2026-05-08 03:25:05.077145 Track Name: "Amen" Artist Name: "Anthony Hamilton" Web Link: https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo 
+GitHub_Runner_Date: 2026-05-08 03:25:05.077159 Track Name: "I Don’t Need Another Pretender" Artist Name: "Elijah Holmes" Web Link: https://open.spotify.com/artist/2DT3XSJvo0aod4XIsi1Ode 
+GitHub_Runner_Date: 2026-05-08 03:25:05.077174 Track Name: "Before I Take A While" Artist Name: "Elmiene" Web Link: https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL 
+GitHub_Runner_Date: 2026-05-08 03:25:05.077189 Track Name: "My Everything (Acoustic)" Artist Name: "J.Howell" Web Link: https://open.spotify.com/artist/5GU7EEftOdxcqM7nPoXLwq 
