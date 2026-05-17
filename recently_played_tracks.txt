@@ -12463,3 +12463,18 @@ GitHub_Runner_Date: 2026-05-16 03:28:12.937757 Track Name: "Got to Be Real" Arti
 GitHub_Runner_Date: 2026-05-16 03:28:12.937778 Track Name: "Country Girl" Artist Name: "FATDADDY" Web Link: https://open.spotify.com/artist/5VLrTkV7dYu8ryw55pdBTy 
 GitHub_Runner_Date: 2026-05-16 03:28:12.937800 Track Name: "The Buzz" Artist Name: "Hermitude" Web Link: https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u 
 GitHub_Runner_Date: 2026-05-16 03:28:12.937821 Track Name: "Collide - From "Queen & Slim: The Soundtrack"" Artist Name: "Tiana Major9" Web Link: https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788185 Track Name: "Go My Way" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788272 Track Name: "Crush" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788299 Track Name: "Graceland" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788322 Track Name: "Chief" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788345 Track Name: "Seconds Please" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788368 Track Name: "Faust Road" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788391 Track Name: "Hello To Me" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788412 Track Name: "Rose" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788433 Track Name: "Road Warrior" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788454 Track Name: "Never any no good" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788475 Track Name: "Repeat" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788496 Track Name: "Left Alone" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788516 Track Name: "25.22" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788537 Track Name: "Lucy The Tease" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-17 03:42:47.788558 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
