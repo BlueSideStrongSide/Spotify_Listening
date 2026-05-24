@@ -12568,3 +12568,18 @@ GitHub_Runner_Date: 2026-05-23 03:33:02.335523 Track Name: "Sun + Moon" Artist N
 GitHub_Runner_Date: 2026-05-23 03:33:02.335544 Track Name: "say my name again" Artist Name: "ïnnü" Web Link: https://open.spotify.com/artist/0EOKPBngScriBSl8h4balK 
 GitHub_Runner_Date: 2026-05-23 03:33:02.335566 Track Name: "Weightless" Artist Name: "J. Brown" Web Link: https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb 
 GitHub_Runner_Date: 2026-05-23 03:33:02.335587 Track Name: "Feelings - Live in-studio, New York, 2023" Artist Name: "Dre Scot" Web Link: https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1 
+GitHub_Runner_Date: 2026-05-24 03:54:50.069690 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-24 03:54:50.069755 Track Name: "13" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-24 03:54:50.069782 Track Name: "Word Of Mouth" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-24 03:54:50.069805 Track Name: "Pretty Bug (feat. James Vincent McMorrow)" Artist Name: "Allan Rayman" Web Link: https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk 
+GitHub_Runner_Date: 2026-05-24 03:54:50.069828 Track Name: "I Don’t Need Another Pretender" Artist Name: "Elijah Holmes" Web Link: https://open.spotify.com/artist/2DT3XSJvo0aod4XIsi1Ode 
+GitHub_Runner_Date: 2026-05-24 03:54:50.069864 Track Name: "Flowers" Artist Name: "Wé Ani" Web Link: https://open.spotify.com/artist/0VcXm1al35QNsj9tbAnCJm 
+GitHub_Runner_Date: 2026-05-24 03:54:50.069886 Track Name: "Good On Me" Artist Name: "Leela James" Web Link: https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2 
+GitHub_Runner_Date: 2026-05-24 03:54:50.069907 Track Name: "Before I Take A While" Artist Name: "Elmiene" Web Link: https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL 
+GitHub_Runner_Date: 2026-05-24 03:54:50.069928 Track Name: "Promise To Love" Artist Name: "LeVelle" Web Link: https://open.spotify.com/artist/4n3eYLfPqAvWcorjUW3vyP 
+GitHub_Runner_Date: 2026-05-24 03:54:50.069949 Track Name: "Callin' for You" Artist Name: "Vicki Vox" Web Link: https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ 
+GitHub_Runner_Date: 2026-05-24 03:54:50.069970 Track Name: "Looking Back" Artist Name: "Brian Culbertson" Web Link: https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE 
+GitHub_Runner_Date: 2026-05-24 03:54:50.069991 Track Name: "Sun + Moon" Artist Name: "Grimm Lynn" Web Link: https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh 
+GitHub_Runner_Date: 2026-05-24 03:54:50.070012 Track Name: "say my name again" Artist Name: "ïnnü" Web Link: https://open.spotify.com/artist/0EOKPBngScriBSl8h4balK 
+GitHub_Runner_Date: 2026-05-24 03:54:50.070034 Track Name: "Weightless" Artist Name: "J. Brown" Web Link: https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb 
+GitHub_Runner_Date: 2026-05-24 03:54:50.070055 Track Name: "Feelings - Live in-studio, New York, 2023" Artist Name: "Dre Scot" Web Link: https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1 
